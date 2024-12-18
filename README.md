@@ -1,8 +1,9 @@
 ## English
-I'm Everton Freitas, fullstack web developer and data science student.
+I'm Everton Freitas, Fullstack Web Developer and Data Scientist.
 
 ### Contacts
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evertonfr7)
+[![image](https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585998716133)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/everton7fr)
 
 ### Techs
@@ -44,5 +45,3 @@ I'm Everton Freitas, fullstack web developer and data science student.
 ![image](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![image](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-## Português
-Eu sou Everton Freitas, desenvolvedor web fullstack e estudante de ciência de dados.
