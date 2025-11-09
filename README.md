@@ -4,7 +4,7 @@ I'm Everton Freitas, Fullstack Web Developer and Data Scientist.
 
 ### Contacts
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evertonfr7)
-[![image](https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585998716133)
+[![image](https://img.shields.io/badge/Whatsapp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585921630442)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/everton7fr)
 
 ### Techs
